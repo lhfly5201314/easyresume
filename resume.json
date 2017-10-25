@@ -3,7 +3,6 @@
     "birth": "17.04",
     "tel": "18696193637",
     "email": "lhfly520@gmail.com",
-    "blog": "http://lhfly520.github.io",
     "avatar": "image/avatar.jpg",
     "pages": [],
     "summaries": [
@@ -27,6 +26,19 @@
                 "前期，和开发团队共同合作参与整个app的架构设计。独立开发地址管理模块和药品需求模块。", 
                 "后期，由于自己拥有一定的医学背景。于是协助运营主管参与app和微信公众号的运营，具体工作就是收集血液病方向的医学文献，编写科普小文章。"
             ]
+        }, 
+
+        {
+            "company": "美国弗吉尼亚联邦州立大学医学院分子生物中心",
+            "post":"初级研究员", 
+            "startDate":"2014.01", 
+            "endDate":"2015.03", 
+            "summary":"分子生物学实验", 
+            "details":[
+                "SPAG6基因在男性不孕不育中的作用机制研究", 
+                "SPAG6基因的缺失或变异对微管蛋白发生的影响"
+
+            ]
         }
     ],
     "projectExperiences": [
@@ -43,55 +55,11 @@
     ],
     "sections": [
         {
-            "title": "开发小工具",
-            "fragments": [
-                {
-                    "name": "微信公众号测试客户端",
-                    "comment": "",
-                    "startDate": "",
-                    "endDate": "",
-                    "summary": "完成发送HTTP测试数据并解析响应数据的功能测试Swing客户端，大大提高复杂逻辑的公众号功能测试效率。",
-                    "details": []
-                },
-                {
-                    "name": "火狐搜索插件",
-                    "comment": "",
-                    "startDate": "",
-                    "endDate": "",
-                    "summary": "独立编写快速搜索小插件，使用Spring MVC+HttpClient完成搜索推荐（如热门微博）的数据格式适配。",
-                    "details": []
-                }
-            ]
-        },
-        {
-            "title": "培训经历",
-            "fragments": [
-                {
-                    "name": "甲骨文人才发展中心",
-                    "comment": "2013校招培训项目",
-                    "startDate": "2013.09",
-                    "endDate": "2013.12",
-                    "summary": "",
-                    "details": [
-                        "校招深圳研发中心B组组长，第一届甲骨文编程马拉松中获带领小组获项目“创新奖”，本人获“优秀小组长"
-                    ]
-                },
-                {
-                    "name": "甲骨文大学",
-                    "comment": "技术培训",
-                    "startDate": "2013.7",
-                    "endDate": "2013.9",
-                    "summary": "参与甲骨文大学(对外)Java7 、SQL、PL/SQL、Oracle Application Framework（OAF）等7门技术培训课程。",
-                    "details": []
-                }
-            ]
-        },
         {
             "title": "英语能力",
             "points": [
                 "无障碍阅读原版技术书籍、文档、StackOverflow",
-                "能与跨国团队协作",
-                "英语六级、剑桥商务英语国际证书。"
+                "英语六级。"
             ]
         }
     ],
