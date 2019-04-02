@@ -50,7 +50,6 @@
             "details":[
                 "SPAG6基因在男性不孕不育中的作用机制研究", 
                 "SPAG6基因的缺失或变异对微管蛋白发生的影响"
-
             ]
         }
     ],
@@ -88,14 +87,13 @@
 				"github项目地址:https://github.com/lhfly5201314/web_scraping_with_python"
             ]
         }
-    ]
-    ],
+	],
     "sections": [
         {
             "title": "英语能力",
             "points": [
                 "无障碍阅读原版技术书籍、文档、GitHub、StackOverflow",
-                "英语六级。"
+                "英语六级"
             ]
         }
     ],
