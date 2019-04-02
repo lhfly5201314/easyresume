@@ -8,12 +8,12 @@
     "summaries": [
         "对数据爬取、挖掘和深度学习方向有浓厚的兴趣，希望以后长期在此方向发展。", 
         "熟悉Scrapy、pyspider等常用爬虫kuangjiang。", 
-		"熟悉R语言基本语法，能用stringr包、dpylr包,ggplot包等，进行数据清洗、数据分析和可视化；能使用randomForest包、rpart.plot包、e1071包等，进行机器学习和相关预测",
-		"掌握SQL语言，能在R以及MYSQL环境下对数据进行增删改查；",
-		"熟悉Python基本语法，会用pandas，numpy，matplotlib进行数据清洗，数据分析和可视化",
-		"了解机器学习常用算法，如svm分类、随机森林、决策树、线性回归，K-means算法、朴素贝叶斯、Deep NN；",
+		"熟悉R语言基本语法，能用stringr包、dpylr包,ggplot包等，进行数据清洗、数据分析和可视化；能使用randomForest包、rpart.plot包、e1071包等，进行机器学习和相关预测。",
+		"掌握SQL语言，能在R以及MYSQL环境下对数据进行增删改查。",
+		"熟悉Python基本语法，会用pandas，numpy，matplotlib进行数据清洗，数据分析和可视化。",
+		"了解机器学习常用算法，如svm分类、随机森林、决策树、线性回归，K-means算法、朴素贝叶斯、Deep NN。",
         "熟悉tensorflow,keras,pytorch等深度学习框架。能够使用这些框架搭建常用的机器学习模型，调参并优化之。",
-		"掌握Java、Android基本语法，熟悉使用MyEclipse和Android Studio",
+		"掌握Java、Android基本语法，熟悉使用MyEclipse和Android Studio。",
         "具备较强的学习能力，对不熟悉的技术可以快速上手; 擅用文档、Google、StackOverflow学习技术。"
     ],
     "workExperiences": [
@@ -22,7 +22,7 @@
             "post": "初级区块链开发工程师",
             "startDate": "2018.03",
             "endDate": "至今",
-            "summary": "使用nodejs进行数字货币交易平台后端开发。",
+            "summary": "使用nodejs进行数字货币交易平台后端开发",
             "details": [
                 "前期，和开发团队共同合作参与整个品台的架构设计。独立开发爬虫模块，抓取多个数字货币背景、交易数据，进行清洗、整理、分析。", 
                 "后期，和同事共同开发数字货币多币种钱包，支持BTC,ETH等主流币种。"
@@ -34,7 +34,7 @@
             "post": "初级android工程师",
             "startDate": "2016.07",
             "endDate": "2017.08",
-            "summary": "使用android进行移动端app开发。",
+            "summary": "使用android进行移动端app开发",
             "details": [
                 "前期，和开发团队共同合作参与整个app的架构设计。独立开发地址管理模块和药品需求模块。", 
                 "后期，由于自己拥有一定的医学背景。于是协助运营主管参与app和微信公众号的运营，具体工作就是收集血液病方向的医学文献，编写科普小文章。"
@@ -71,7 +71,7 @@
             "endDate": "2017.08",
             "summary": "",
             "details": [
-                "app框架设计。app内地址管理模块，药品需求模块的开发"
+                "app框架设计，app内地址管理模块，药品需求模块的开发"
             ]
         },
         {
@@ -107,17 +107,6 @@
             "major": "流行病与卫生统计",
             "startDate": "2011.07",
             "endDate": "2013.12",
-            "scholarships": [
-            ],
-            "experiences": [
-            ]
-        },
-        {
-            "university": "武汉科技大学",
-            "studyType": "学士",
-            "major": "预防医学--公共卫生",
-            "startDate": "2006.07",
-            "endDate": "2011.06",
             "scholarships": [
             ],
             "experiences": [
