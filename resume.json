@@ -75,16 +75,19 @@
             ]
         },
         {
-            "projectName": "业余小项目",
+            "projectName": "业余爬虫&python数据分析小项目",
             "role": "",
             "startDate": "",
             "endDate": "",
             "summary": "",
             "details": [
                 "复现网友提供的项目，主要涉及2个方面:",
-				"1.利用爬虫爬取大量的数据,持久化到数据库(mysql,mongodb,redis)",
+				"1.利用爬虫从互联网爬取大量的数据,持久化到数据库(mysql,mongodb,redis)",
 				"2.利用numpy,pandas对数据进行分析，提取某些特征，总结某些趋势",
-				"github项目地址:https://github.com/lhfly5201314/web_scraping_with_python"
+				"项目1:虎嗅网5万篇文章爬取&python分析:",
+				"https://blog.csdn.net/bf02jgtrs00xktcx/article/details/84801395",
+				"项目2:抓取丁香园和快问医生平台上超过150万条公开内容&python分析:",
+				"https://greatdk.com/1513.html"
             ]
         }
 	],
